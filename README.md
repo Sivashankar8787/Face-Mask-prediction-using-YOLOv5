@@ -1,4 +1,4 @@
-Face Mask Prediction using YOLOv5
+#Face Mask Prediction using YOLOv5
 This project involves the development of a deep learning model for detecting whether individuals are wearing face masks properly, improperly, or not at all. The model is built using the YOLOv5 (You Only Look Once version 5) architecture, which is one of the most advanced real-time object detection models available.
 
 Introduction
