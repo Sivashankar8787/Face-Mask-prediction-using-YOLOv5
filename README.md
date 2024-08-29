@@ -12,9 +12,7 @@ Key Advantages of YOLOv5:
 Speed and Efficiency: Processes images faster than many other object detection models.
 Accuracy: Achieves high accuracy with fewer false positives and false negatives.
 Flexibility: Can be fine-tuned for various object detection tasks, including face mask detection.
-2. Problem Formulation
-The face mask detection problem is formulated as a multi-class object detection task, where the model identifies:
-
+2. Problem Formulation The face mask detection problem is formulated as a multi-class object detection task, where the model identifies:
 With Mask: Person is wearing a face mask properly.
 Without Mask: Person is not wearing a face mask.
 Mask Worn Incorrectly: Person is wearing a face mask incorrectly (e.g., under the nose or on the chin).
